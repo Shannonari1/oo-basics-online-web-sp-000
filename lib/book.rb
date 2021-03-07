@@ -37,4 +37,3 @@ def genre=(genre)
   end
 
 end
-
